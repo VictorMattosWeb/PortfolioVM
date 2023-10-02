@@ -171,3 +171,37 @@ i.menu-mobile {
         margin-left: 0;
     }
 }
+
+.img-border {
+    border-radius: 2%;
+}
+
+.link-extractta {
+    list-style: none;
+    text-decoration: none;
+    color: #00d0ff;
+}
+
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    width: 12px;
+    box-shadow: inset 0 0 .3rem #00000050;
+    background-color: #FFF;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #131212;
+}
+
+
+.section-bg {
+    background-color: #00d0ff10;
+}
+
+.soft-tag {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
